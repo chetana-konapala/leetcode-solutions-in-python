@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chetana-konapala/leetcode-solutions-in-python/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/chetana-konapala/leetcode-solutions-in-python/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
